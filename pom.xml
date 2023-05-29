@@ -11,7 +11,7 @@
 	<groupId>com.in28minutes.springboot</groupId>
 	<artifactId>myfirstwebapp</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>myfirstwebapp</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
