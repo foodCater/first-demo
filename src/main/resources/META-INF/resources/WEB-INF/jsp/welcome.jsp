@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Welcome Page</title>
+		<title>Welcome Page!!</title>
 	</head>
 	<body>
 		<div class="container">
